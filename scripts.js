@@ -8,4 +8,4 @@ var secondsPerDay = secondsPerMin * minsPerHour * hoursPerDay;
 document.write('<p>There are ' + secondsPerDay + ' seconds in a day</p>');
 var yearsAlive = prompt('How old are you?');
 var yearsAliveSeconds = secondsPerDay * yearsAlive;
-document.write('<p>You have been alive ' + yearsAliveSeconds + ' seconds in my life</p>');
+document.write('<p>You have been alive ' + yearsAliveSeconds + ' seconds in your life</p>');
